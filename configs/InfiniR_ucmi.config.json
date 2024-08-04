@@ -1,11 +1,11 @@
 [
     {
         "kernelSource": { 
-            "name": "k40-RealKing", 
-            "repo": "https://github.com/Rohail33/Realking_kernel_sm8250", 
-            "branch": "base", 
-            "device": "alioth", 
-            "defconfig": "alioth_defconfig" 
+            "name": "InfiniR", 
+            "repo": "https://github.com/toraidl/InfiniR_kernel_ucmi", 
+            "branch": "14", 
+            "device": "ucmi", 
+            "defconfig": "ucmi_defconfig" 
           }, 
           "toolchains": [ 
             {  
@@ -37,8 +37,8 @@
             "use": true, 
             "release": true,
             "custom": {
-              "repo": "https://github.com/luyanci/AnyKernel3",
-              "branch": "k40"
+              "repo": "https://github.com/toraidl/AnyKernel3",
+              "branch": "kona"
             }
           },
           "enableKernelSU": true, 
