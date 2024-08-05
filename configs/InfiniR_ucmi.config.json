@@ -37,8 +37,8 @@
             "use": true, 
             "release": true,
             "custom": {
-              "repo": "https://github.com/toraidl/AnyKernel3",
-              "branch": "kona"
+              "repo": "https://github.com/hahaha4s/AnyKernel3",
+              "branch": "master"
             }
           },
           "enableKernelSU": true, 
