@@ -2,8 +2,8 @@
     {
         "kernelSource": { 
             "name": "cmi", 
-            "repo": "https://github.com/PocoF3Releases/kernel_xiaomi_sm8250", 
-            "branch": "aosp-14", 
+            "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250", 
+            "branch": "staging", 
             "device": "cmi", 
             "defconfig": "vendor/cmi_defconfig" 
           }, 
