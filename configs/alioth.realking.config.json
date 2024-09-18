@@ -2,10 +2,10 @@
     {
         "kernelSource": { 
             "name": "cmi-RealKing", 
-            "repo": "https://github.com/Rohail33/Realking_kernel_sm8250", 
-            "branch": "main", 
+            "repo": "https://github.com/Luffitys/android_kernel_xiaomi_sm8250-n0kernel", 
+            "branch": "noksu", 
             "device": "cmi", 
-            "defconfig": "cmi_defconfig" 
+            "defconfig": "vendor/cmi_defconfig" 
           }, 
           "toolchains": [ 
             {  
