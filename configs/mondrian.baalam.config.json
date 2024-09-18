@@ -38,7 +38,7 @@
             "release": true,
             "custom": {
               "repo": "https://github.com/hahaha4s/AnyKernel3",
-              "branch": "cmi"
+              "branch": "master"
             }
           },
           "enableKernelSU": true, 
