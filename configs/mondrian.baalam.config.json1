@@ -2,10 +2,10 @@
     {
         "kernelSource": { 
             "name": "cmi", 
-            "repo": "https://github.com/Luffitys/android_kernel_xiaomi_sm8250-MagicTime", 
-            "branch": "magictime-new", 
+            "repo": "https://github.com/EmanuelCN/kernel_xiaomi_sm8250", 
+            "branch": "staging", 
             "device": "cmi", 
-            "defconfig": "cmi_defconfig" 
+            "defconfig": "vendor/cmi_defconfig" 
           }, 
           "toolchains": [ 
             {  
