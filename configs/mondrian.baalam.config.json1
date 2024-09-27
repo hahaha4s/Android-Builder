@@ -9,7 +9,7 @@
           }, 
           "toolchains": [ 
             {  
-               "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/master/clang-r498229b.tar.gz",  
+               "url": "https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/clang+llvm-18.1.8-aarch64-linux-gnu.tar.xz",  
                "name": "clang",  
                "binaryEnv": [
                 "bin"
